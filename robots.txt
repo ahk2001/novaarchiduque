@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /docs/
+Disallow: /video/
+
+Sitemap: https://ahk2001.github.io/novaarchiduque/sitemap.xml
